@@ -12,12 +12,10 @@
   "keywords": [],
   "author": "sramam",
   "license": "ISC",
-  "dependencies": {
-    "globby": "^11.1.0"
-  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-node-resolve": "^13.3.0",
+    "globby": "^11.0.1",
     "rollup": "^2.74.1"
   }
 }
