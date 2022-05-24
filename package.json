@@ -1,0 +1,23 @@
+{
+  "name": "globby11",
+  "version": "11.0.1-nv-patched",
+  "description": "A patched+rolledup version of globby",
+  "main": "dist/globby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist/globby.js"
+  ],
+  "keywords": [],
+  "author": "sramam",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^11.1.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "rollup": "^2.74.1"
+  }
+}
